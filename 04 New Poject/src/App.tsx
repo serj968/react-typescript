@@ -11,7 +11,10 @@ function App() {
         <Container as={Button}>Click me</Container>  
       </p>
      <p>
-        {/* <Container as={Input}>level </Container> */}
+        <Container label="Age" id="ss" type="number" as={Input}></Container>
+     </p>
+     <p>
+        <Container label="Name" id="ss" type="text" as={Input}></Container>
      </p>
      
     </main>
