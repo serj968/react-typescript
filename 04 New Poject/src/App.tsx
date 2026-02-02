@@ -6,17 +6,15 @@ function App() {
   return (
     <main>
       <p>
-      <Button el="button" onClick={() => alert('Button clicked!')}>
-        Click Me
-      </Button>
+        <Button onClick={() => alert('Button clicked!')}>
+          Click Me
+        </Button>
       </p>
       <p>
-      <Button el="anchor" href="https://www.google.com">
-        Go to Google
-      </Button>
+        <Button href="https://www.google.com">
+          Go to Google
+        </Button>
       </p>
-      {/* <Input label="Your Name" id="name" type="text"/>
-      <Input label="Your Age" id="age" type="number" /> */}
     </main>
   );
 }
