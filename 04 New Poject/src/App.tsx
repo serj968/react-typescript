@@ -1,4 +1,6 @@
 import Button from "./components/Button";
+import Container from "./components/Container";
+import Input from "./components/Input";
 
 
 
@@ -6,15 +8,12 @@ function App() {
   return (
     <main>
       <p>
-        <Button onClick={() => alert('Button clicked!')}>
-          Click Me
-        </Button>
+        <Container as={Button}>Click me</Container>  
       </p>
-      <p>
-        <Button href="https://www.google.com">
-          Go to Google
-        </Button>
-      </p>
+     <p>
+        {/* <Container as={Input}>level </Container> */}
+     </p>
+     
     </main>
   );
 }
