@@ -1,0 +1,1693 @@
+Call with Madalina Atomei-20260204_091828-Meeting Recording
+February 4, 2026, 7:18AM
+1h 8m 51s
+
+Sergiu Vasilache started transcription
+
+Madalina Atomei   0:03
+Aspinet your application the chat my mode policy to the conductor auto. So, it's adult application or micro application.
+What's soup?
+
+Sergiu Vasilache   0:36
+There is a crown in Ionel.
+
+Madalina Atomei   0:39
+Mhm.
+Oh.
+And.
+Google Doc.
+
+Sergiu Vasilache   0:50
+Business flows one that I needed.
+
+Madalina Atomei   0:54
+Effective on Blink.
+And through user, the Bing curiosity.
+
+Sergiu Vasilache   1:04
+More.
+
+Madalina Atomei   1:22
+The respective user.
+
+Sergiu Vasilache   1:28
+This, this is the development, documents, recordings, recordings, demo.
+
+Madalina Atomei   1:40
+Mm-hmm.
+Should document.
+
+Sergiu Vasilache   1:55
+Documents diagrams lesson learned.
+
+Madalina Atomei   2:01
+The okay.
+
+Sergiu Vasilache   2:05
+How to configure a micro application blink, this pressed over there?
+
+Madalina Atomei   2:06
+Out.
+No, no, no.
+User on Blink. AWS. I count to the.
+Okay, yeah.
+
+Sergiu Vasilache   2:35
+Actually, is.
+
+Madalina Atomei   2:40
+Also, in a way, the A.V.S.
+Dela Ness.
+
+Sergiu Vasilache   2:48
+Obvious.
+Connexion develops. Obviously region bit bucket. Lombada artifacts.
+
+Madalina Atomei   3:00
+No.
+
+Sergiu Vasilache   3:12
+Ask Dusan thought the last stage code.
+
+Madalina Atomei   3:20
+So, click is configuration automatic, no?
+
+Sergiu Vasilache   3:23
+Deployment of Lenka.
+
+Madalina Atomei   3:24
+And practises to that deployment to the.
+
+Sergiu Vasilache   3:27
+Bunch, yo, my God, I'm Cash.
+
+Madalina Atomei   3:27
+Mhm.
+
+Sergiu Vasilache   3:34
+If a bucket, yes, they terra fork.
+
+Madalina Atomei   3:37
+No, no, no. Oh, Teodora.
+
+Sergiu Vasilache   3:40
+There are grand chiva teacher.
+
+Madalina Atomei   3:42
+Teodora Denisa.
+
+Sergiu Vasilache   3:51
+Ramona Celeste.
+
+Madalina Atomei   3:57
+Configuratively, what did the DevOps to be infrastructure?
+These people are the banking posts that could be environment to Denisa.
+
+Sergiu Vasilache   4:23
+No, man.
+Okay.
+
+Madalina Atomei   4:45
+Mhm.
+And they chose to look. I don't know.
+Uh, mistake coach the job was supposed to...
+Because, in this server to local application, the user in the example to do defect reporting.
+Uh, defect reporting front end, Nicolaie, make another front end.
+In each other, I, I asked the environments I configure at levels, I call we.
+Would allow the data, the backend, because it will follow search test data, no environment, because it will follow some through local.
+
+Sergiu Vasilache   5:56
+Just a lot of months.
+
+Madalina Atomei   6:08
+The.
+That's the no my my valid.
+Should like to do some services.
+
+Sergiu Vasilache   6:21
+Are you sure when you each other seriously social not people to lose?
+
+Madalina Atomei   6:25
+The.
+I, it's the I just did that in Blink.
+Yaru.
+Local user ID proxy.
+I could.
+The example to sign in, so what you call the server?
+
+Sergiu Vasilache   7:19
+The services, um, okay, call you, you know the services they just the.
+
+Madalina Atomei   7:23
+I just said.
+
+Sergiu Vasilache   7:28
+Uhh...
+
+Madalina Atomei   7:32
+They can do some posters and that's feature effective.
+
+Sergiu Vasilache   7:33
+Beacon, OK.
+Mhm, mhm.
+
+Madalina Atomei   7:40
+It's pretty bacon.
+
+Sergiu Vasilache   7:43
+Okay.
+
+Madalina Atomei   7:46
+Sha Shaida.
+Stop.
+Yeah.
+Say it.
+
+Sergiu Vasilache   7:56
+Oh, string, string, record the user ID with the corresponding to boom, get user ID from user ID.
+
+Madalina Atomei   8:03
+Yeah, so basically...
+
+Sergiu Vasilache   8:09
+Okay, I'm Celeste born.
+
+Madalina Atomei   8:12
+The get user ID from.
+
+Sergiu Vasilache   8:28
+Mm-hmm.
+
+Madalina Atomei   8:29
+Yeah, my secret, my secret.
+
+Sergiu Vasilache   8:41
+But I'm just kissing your age, not sure.
+
+Madalina Atomei   8:42
+Claudiu, no.
+I don't know moment that it is on secret, then you know.
+With HIV.
+
+Sergiu Vasilache   9:10
+No, my own peak.
+Michaela Augustinov, Michaela.
+
+Madalina Atomei   9:16
+Mhm.
+
+Sergiu Vasilache   9:17
+Michaela Wisconsin.
+Production no idea.
+
+Madalina Atomei   9:24
+Ohh.
+That's reporting the P.P.A.K. that I thought the law state coach sent three applicants important consumer about reporting defect reporting.
+She.
+
+Sergiu Vasilache   9:53
+Defect reporting.
+
+Madalina Atomei   9:53
+To my should there DRS?
+Clocking clock.
+On some of us.
+
+Sergiu Vasilache   10:06
+Hi, so I was. Hi, so, presents project structural project last time and recess systematic last is the project pipeline.
+
+Madalina Atomei   10:19
+Mmh.
+No.
+Nostro.
+
+Sergiu Vasilache   10:29
+Okay, document blink.
+We also change the chat to how to configure a micro application, OK?
+Awesome.
+Okay.
+Anyway, she video environment, laughing out consumable defect reporting.
+
+Madalina Atomei   10:56
+Yeah.
+The.
+Clock in, clock out.
+
+Sergiu Vasilache   11:09
+Clock in, clock out, out.
+
+Madalina Atomei   11:21
+La consumable reporting link said your application standalone amplifier.
+
+Sergiu Vasilache   12:00
+How much service?
+
+Madalina Atomei   12:03
+Not a...
+
+Sergiu Vasilache   12:03
+Boom, your **** so.
+Local.
+
+Madalina Atomei   12:12
+Consumer value reporting points upon national car.
+Andrei.
+Are you?
+That singular singular look is the I server app she was chose apples user ID so all the informatic in bling that I never do get way.
+Up, because supposed to.
+La Balaz.
+
+Sergiu Vasilache   12:51
+Get, get the way up.
+
+Madalina Atomei   12:53
+Yeah, environment would be consumables.
+
+Sergiu Vasilache   13:00
+Hey, Justin.
+Talks DF contact emails team name.
+
+Madalina Atomei   13:12
+I just, I just my mom said really the the amplifier, the item.
+
+Sergiu Vasilache   13:16
+The amplifier, amplifier front, consumably reporting.
+Amplify IP gateway.
+
+Madalina Atomei   13:26
+No, I never.
+
+Sergiu Vasilache   13:43
+It usually don't know.
+
+Madalina Atomei   13:44
+Yeah, react. I just now.
+
+Sergiu Vasilache   14:00
+OK, OK. Boom. Correct. I mean, I'm just consumable reports for Blink.
+
+Madalina Atomei   14:03
+But.
+No, no, no.
+Know what?
+Mhm.
+No, no, I I the computer really the blink I suppose I uh.
+Informatic, this pre-user to who user or respective server, get user the user that engineer that.
+
+Sergiu Vasilache   14:45
+The authorization.
+
+Madalina Atomei   14:45
+Conducator.
+No.
+The, the, the.
+No.
+
+Sergiu Vasilache   14:59
+Ohh, boon. I.
+
+Madalina Atomei   15:08
+Mhm.
+
+Sergiu Vasilache   15:09
+Ness update after deployed effect reporting.
+Oh.
+The last stagecoach.
+
+Madalina Atomei   15:26
+Yeah.
+
+Sergiu Vasilache   15:38
+Norman. OK, born.
+So, defect reporting goes to your application in Blink or each other.
+
+Madalina Atomei   15:46
+No, your application separated amplifier. Blink, simple. Yeah, yeah. Application from proxy. She has a print proxy. User ID secret.
+
+Sergiu Vasilache   15:53
+Authorizes, no.
+
+Madalina Atomei   16:07
+Gateway within RVS, do not follow system for much less like a steep to, but you do not need to call or the server the blink, couple as a show up with the blink.
+Kovalova.
+Uh, there is a there is a very effective gateway called my will call proxy, you know, patch party multi.
+
+Sergiu Vasilache   16:37
+Okay.
+The other suggestion about ports is the local.
+
+Madalina Atomei   16:44
+What's that?
+Also relays that.
+That guy server up configure that on EVS.
+console it on.
+Now, to catch a lower.
+She.
+The guy who knows that I didn't blink at the local.
+React that configure like.
+La functional.
+
+Sergiu Vasilache   17:42
+Elena nu te mai aud.
+
+Madalina Atomei   17:45
+Nu știu poate o ceva de net.
+
+Sergiu Vasilache   17:46
+Ah acum da.
+
+Madalina Atomei   17:50
+Și la fel de eres uși.
+
+Sergiu Vasilache   17:50
+Ă ă.
+
+Madalina Atomei   17:53
+Modificri port in sus foarte asemănătoare cash.
+
+Sergiu Vasilache   18:00
+Bine și tu când ai dezvoltat *** dezvolta, adică înainte ca să facă toate conturile astea cu aviz pur si simplu acolo cand la mine să pot să mă joc, să văd că se încarcă ceva când dau clic pe nu știu pe un buton ceva se întâmplă.
+
+Madalina Atomei   18:01
+Nu toate.
+
+Sergiu Vasilache   18:15
+*** făceai dezvoltarea?
+
+Madalina Atomei   18:20
+Dar nu prea am făcut un separat fără să am serverul wap.
+
+Sergiu Vasilache   18:27
+Sunt țeleg că deja era făcut ceva când a intrat pe proiect, nu era deja.
+
+Madalina Atomei   18:31
+Nu am făcut în paralel.
+Ca să zic așa.
+
+Sergiu Vasilache   18:36
+Îhî.
+
+Madalina Atomei   18:39
+În paralel, dar.
+*** să zic, inițial, nu aveam legăturile astea de blink, nu numai interesa. Aplicația Mergea Bifold pentru că.
+Nu a.
+Nu aveam goluri la bec e neapărat aveam pur și simplu niște componente simple la care puteam să lucrez în paralel, după ce am făcut legătura cu B.
+Gândul nu prea mai avut ocazia SS nu a mai fost nevoie, s ă fi încãrcat i independent.
+
+Sergiu Vasilache   19:15
+Am să las.
+Am înțeles, deci musai.
+
+Madalina Atomei   19:26
+Adică ce poți să ce poți să faci tu poate poți să comentezi, dar nu știu *** ar putea să meargă. Poți să încerci prima dată și prima dată Uite te pe consumul reporting.
+
+Sergiu Vasilache   19:27
+Da.
+
+Madalina Atomei   19:38
+Poți face un empiem start pe consumul, îmi instalam start ca în.
+
+Sergiu Vasilache   19:43
+Da da da da da.
+
+Madalina Atomei   19:44
+Așa ă de că.
+Putem na încerca și împreună.
+
+Sergiu Vasilache   19:51
+Hai nu hai să terminăm cu ce am zis eu cu snur timp este structura proiectelor și după aia EU deja am să mă uit peste.
+
+Madalina Atomei   19:57
+Îhî.
+Â bun deci asta era.
+
+Sergiu Vasilache   19:59
+Bun asta.
+
+Madalina Atomei   20:01
+Asta eram da mai mult partea de ploi, ci e arătatu aici pentru toate.
+Mallurile astea făcute din devops ul nostru.
+Pe partea de devops au lucrat tot un coleg net.
+
+Sergiu Vasilache   20:15
+Bun hai încă o dată, deci defect reporting aplicația Ce face adaugă niște defecte, adică.
+S-a spart o roată nu ceva de genul ăsta, ce faci așa? În general, aplicație mai țin minte.
+
+Madalina Atomei   20:27
+Ă da e defect reporting ă ai posibilitatea tu ca conducător auto să spui defectele de pe autobuzul pe care urmează să îl conduci? Cumva ai venit dimineață? Te uiți la autobuz să ai o listă de lucruri pe care să le verifici?
+Ciudat, dar dacă e nevoie zice vad efectul ceku ești, uite, am oglinda spartă. Dai detalii despre el pui imagini, dacă e nevoie și toate informațiile astea sunt salvate.
+
+Sergiu Vasilache   20:49
+Î.
+
+Madalina Atomei   21:04
+Ă.
+Și trimiți mai departe într-un sistem și asta aici pe partea de bec end Carol. Mai multe lucrat îți trimite mai departe ca să fie folosit de ingineri ă informațiile. Apoi vin un alt conducător, tot la fel s ă loghez și el pe același autobuz ca este un flit i.
+
+Sergiu Vasilache   21:24
+Î.
+
+Madalina Atomei   21:34
+El nu o să mai fii, nu-ți mai fac un full inspecția. Prima dată faci un full inspection, ai toate trebuie să secuiești toate părțile din autobuz. Dacă sunt ok, dacă nu sunt ok, vine al 2-lea conducător.
+Ă el ori verii, dacă sunt defecti ori are și el un defect și îl adaugă la fel. Informațiile necesare și din nou datele astea ajung într-un sistem în ceva un sunt afișate într-un fel de bordin ar trebui să fie afișate într-un fel de bordin pentru ingineri.
+Ă.
+Astai.
+Principalul.
+Flow ca să zic așa.
+Ă.
+În același timp, aplicația poate fi folosită și din ingineri că ei o să văd toate defectele când se loghează.
+Poate să vadă lista de defecte, să le schimbi statusul în lista de statusuri pe care poți să o schimbe în funcție d na am reparat dacă au reparat sau nu de efectul.
+Un inginer poate fi și conducător i la început un.
+O pagină unde poți să selectezi, vrei să fii inginer sau vrei să fii conducător intri în flow de inginer sau un flow di ă?
+Conducător.
+Cel mai bine aici. Detalii da astea sunt mai importante.
+Cred că klingeis.
+
+Sergiu Vasilache   23:22
+Nu știu ce am scris.
+
+Madalina Atomei   23:40
+Nu cred că poți să, de exemplu, dacă îți Deschizi te duci pe.
+Apar Open folder sau ceva.
+Nu poți să.
+
+Sergiu Vasilache   23:53
+Discheta Aplicația Direct de aici nu s-au.
+
+Madalina Atomei   23:54
+Da da da da da pe apps.
+Așa?
+
+Sergiu Vasilache   23:59
+Bun și mergem la defect reporting.
+
+Madalina Atomei   24:00
+Acum.
+
+Sergiu Vasilache   24:04
+Bun și avem parte asta de bec end frontieră.
+
+Madalina Atomei   24:07
+Îhî.
+
+Sergiu Vasilache   24:08
+Da bun bec end ul este la ce au lucrat tipul ăsta carol.
+
+Madalina Atomei   24:15
+Da cu lamda.
+
+Sergiu Vasilache   24:16
+Ce am ce am încercat. Eu am încercat să rulez niște chestii din astea.
+Ceva o myers, deci am reușit să rulez mai știu ce alt proiect cred că m-am dus, dar și orlat ce n-am reușit. N-am reușit să fac un dybbuk, să văd *** funcționează, nu știi *** să faci din bag în.
+
+Madalina Atomei   24:28
+Î.
+
+Sergiu Vasilache   24:35
+Jose dar nu știu, găsesc eu.
+A obținut ce se întâmplă.
+
+Madalina Atomei   24:40
+În aplicația din Ă.
+Monden, ca să zic așa, în general facem browser.
+Ă ă să pui.
+
+Sergiu Vasilache   24:51
+HD bag faci bag în browser nu da?
+
+Madalina Atomei   24:52
+Î.
+
+Sergiu Vasilache   24:55
+Și mai este luat și una din acolo. Erau ceva pentru react. Dacă să-mi apară componentele.
+
+Madalina Atomei   25:01
+Î.
+
+Sergiu Vasilache   25:01
+Nu știu dacă l-ai folosit.
+Bun astea sunt niște handler.
+
+Madalina Atomei   25:13
+Da sunt tot felul de heraldică.
+În teorie, o singură funcție lamda.
+Ă cu diferite acțiuni, adică acelea școli numai.
+Diferența îi că ai acțiuni diferite din ghedi ă.
+Up date pe respectivul de defect.
+
+Sergiu Vasilache   25:41
+Ok.
+
+Madalina Atomei   25:42
+Inclus da.
+
+Sergiu Vasilache   25:44
+Ok și unde *** apelez?
+
+Madalina Atomei   25:45
+Inclusiv și parte.
+Astea bec end ul îi.
+Vrei să vezi în pfronten *** e apelat, trebuie să duci din nou în.
+
+Sergiu Vasilache   25:57
+Eu mă gândeam, eu mă gândeam, dacă uite vreau să testez o funcție din asta. *** aș putea s-o testez, adică deschizi fiind un backend? Eu mă gândeam, nu știu la un post, manda fac un col către unei PIPR lucrat.
+
+Madalina Atomei   26:09
+Da.
+
+Sergiu Vasilache   26:11
+Aici bănuiesc că la fel la fel se poate face, nu?
+
+Madalina Atomei   26:11
+OS.
+Î se poate face, dar din nou nu nu țin minte ca ă Carol să fi lucrat local, adică el făcea cumva făcea modificările și făcea di ploi în Parlament cu schimbările.
+
+Sergiu Vasilache   26:30
+Am înțeles.
+Mulțumesc.
+
+Madalina Atomei   26:35
+Și da, după aia avea faci acolo din hosman la funcțiile îmi da, cred că anda nu mai am, nu mai am păcate că am schimbat laptop.
+
+Sergiu Vasilache   26:49
+Î.
+
+Madalina Atomei   26:51
+De aici să știi că îi poți să fie partea asta, poți să mai înșel.
+
+Sergiu Vasilache   26:55
+Îl întreb ăla trebuie lor e în regulă, da bun, deci aici sunt niște oi pe handlerii care se apelează de către.
+
+Madalina Atomei   26:57
+Da.
+
+Sergiu Vasilache   27:06
+Ăsta de către fronte, nu așa bun, deci aici nu mă uita timp util si în fine, cred că tot ce fac o doar legat de și *** ai zis că există un singur în tri poet și entry. Point ul Ăla știe după care să.
+
+Madalina Atomei   27:07
+Ponta.
+Îhî.
+Ai acționai parametru ai parametru extrem și în funcție de asta, știi specii.
+
+Sergiu Vasilache   27:20
+Nu știu să ruteze.
+A.
+
+Madalina Atomei   27:28
+Ă cod efectiv să se ducă.
+
+Sergiu Vasilache   27:35
+Bine, ok, nu mai stăm aici.
+Aici.
+
+Madalina Atomei   27:40
+Aici în index cred că ia decizii posibil dacă dai mai jos.
+
+Sergiu Vasilache   27:48
+Vind context în data.
+Căsători azi.
+
+Madalina Atomei   27:54
+Vezi, uite ai ai Suciu de Jos.
+Deceniul ăsta aici.
+
+Sergiu Vasilache   27:59
+Ok OK ok și în funcție de asta, el știi femeia, femeie, femeie, ochi.
+
+Madalina Atomei   28:05
+Da.
+
+Sergiu Vasilache   28:06
+Bun.
+Ok la unele văd că are nevoie de o soră details la ochi, nu?
+Numai un pic rău să văd unde este autorizare pentru asta sau de fapt, nici nu ajunge aici, dacă nu s-a autorizat, ok, bun, asta trebuie să fii pe front.
+
+Madalina Atomei   28:25
+Da.
+
+Sergiu Vasilache   28:26
+Ok asta nu știu ce.
+
+Madalina Atomei   28:29
+Ă să știi că pe front-end nu ai mari autorizarii, adică frontul pur și simplu încărcat în aplicații și prin proxy adăugat user Id ul și Siretul și la nivel de gateway să faci ă.
+
+Sergiu Vasilache   28:45
+Am înțeles, am înțeles ok asta este asta este B Kendo bun. Am văzut fiecare proiect are structura, asta e handler.
+
+Madalina Atomei   28:53
+Î.
+
+Sergiu Vasilache   28:54
+Dar noi toți suntem aici beclean.
+Deci înseamnă că se face și.
+Nu văd nimic aici bancul ăsta.
+Ăștia sunt niște funcții băut, este transmis.
+
+Madalina Atomei   29:11
+Util.
+Care cred că le folosești în toate.
+
+Sergiu Vasilache   29:15
+Dar nu vă duc eu să văd clothes tranzacționare util SRA noi pe handler era util sau greșit? Ba da, uite aici era ok.
+
+Madalina Atomei   29:22
+Ah au pus ok da opus.
+Testele separat cu.
+
+Sergiu Vasilache   29:28
+Solutia asta astea sunt teste să înțeleg export.
+
+Madalina Atomei   29:30
+Da peste. P.
+
+Sergiu Vasilache   29:33
+O proporție de time al performantei ethan fapt asta mi se par tot soții reed epocă s EU de pământ.
+Da uite aici, deja nu știu, este din câte văd triburi noi nu știu ce face.
+Urmează ceva, ok?
+Bun.
+Si tipul ăsta îți spune ceva?
+
+Madalina Atomei   30:00
+Hai să văd?
+
+Sergiu Vasilache   30:02
+Sim generator nu știi ce e asta?
+
+Madalina Atomei   30:07
+Ă cred că da, doar o bănuială mă aștept să fii partea asta în care datele sunt trimise mai departe.
+Partea din.
+Ă.
+
+Sergiu Vasilache   30:20
+Efectul este platinat, nici văd eu le trimite într-un strai bachet da Estrela, ăsta, nu știu.
+
+Madalina Atomei   30:23
+Ma apar.
+Îhî.
+
+Sergiu Vasilache   30:29
+Și ieri, cred că niște jetoane cred că istoria sa ca niște jetoane și le pune într-un.
+
+Madalina Atomei   30:32
+Da.
+Ca să fii folosite de ceilalti echipe.
+
+Sergiu Vasilache   30:39
+Ok am înțeles, deci el ea pur și simplu niște mesaje și pune colo într-un pachet. Ce se întâmplă mai departe? Hove numai de a căuta plouă plouă from S 3, nu știu ce și le pune niște bancheturi pioasă bun.
+Ă M 8 Efixs tatos niște teste bun.
+Sincer în torbă, cine am uitat peste bec end ul? Deci asta fiecare aplicație are un băiat și are în frunte bun. Am ajuns la.
+
+Madalina Atomei   31:10
+Îhî.
+
+Sergiu Vasilache   31:13
+Ă.
+Închidem pe ken. Totuși suntem acum deja pe front. Se pare că executat aici am impins tau.
+
+Madalina Atomei   31:24
+Îhî.
+
+Sergiu Vasilache   31:24
+Bun ca să dau drumul la aplicație. De fapt, trebuie să mă duc exact în modul ăsta și aici să-i dau install. Se dau pe andra ă ă.
+
+Madalina Atomei   31:35
+Teoretic e toată aplicația aplicațiile poți să găsești și ceva domnul tot așa în documentația acolo, dacă dai înapoi în.
+Ă ciodată, Michael.
+Documentația efectiv.
+O să citești un pic?
+Ă aici pot să închiriez ăsta, trebuie să fii ă.
+E singurul cu arma în prezent aici în.
+Dă mai sus la arhitectură sau ceva?
+Nu tot tot acolo poți să în document.
+Așa aici pe.
+Frontex.
+
+Sergiu Vasilache   32:21
+Aici am.
+
+Madalina Atomei   32:22
+Așa și aici, informații, uite d ă.
+
+Sergiu Vasilache   32:23
+Tehnical anala.
+
+Madalina Atomei   32:28
+Aici am folosit.
+
+Sergiu Vasilache   32:34
+Asta cu monopol 9.
+
+Madalina Atomei   32:35
+Da impro.
+Da asta e foarte important că.
+
+Sergiu Vasilache   32:37
+Și.
+
+Madalina Atomei   32:43
+Cu aplicațiile cumva construit in ideea asta de a fi într-un monolog Repo și tu poți să faci empiem install și empiem START.
+Inclusiv din folderul mare și o să ți le creeze.
+
+Sergiu Vasilache   32:58
+Ăă ăsta asta am uitat ok, configurată în vitei de asta folosește vite cavite poate să fac chestia asta, gata, am văzut ceva într-un tutorial da, am înțeles.
+
+Madalina Atomei   33:02
+Da.
+Și e important, deci cumva aici să faci comparație? Pentru că vroiau na cât am avut noi timp să existe și componenti sharuiti într I cele 3 a 4 aplicații și în șard în folderul deșert o să vezi că sunt componenti și cu ajutorul lui Vash Mono Repo fost ușor să-l iei.
+Ai în timp real, faci modificări acolo în timp real sa datează și.
+
+Sergiu Vasilache   33:38
+Bun.
+
+Madalina Atomei   33:38
+Compune Intel.
+
+Sergiu Vasilache   33:39
+Și îți mai aduci aminte o componentă dumneavoastră cam ***?
+Sau lasă caut, eu mă uit eu după ea și ca să nu mai pierdem timpul.
+
+Madalina Atomei   33:47
+Ă.
+*** e încărcată.
+Sau.
+
+Sergiu Vasilache   33:51
+Îți detalii tehnici, îți detaliază, uite un singur eu nu îi.
+
+Madalina Atomei   33:54
+Da dacă te blochez cu ceva, putem să mai avem un cold, dar.
+Da îs chestii.
+Da nu știu nici să mai mult.
+
+Sergiu Vasilache   34:07
+Cei 2 Componenți.
+
+Madalina Atomei   34:07
+Nu cred că ăsta nici nu mai este folosit.
+Bine.
+
+Sergiu Vasilache   34:13
+DF Cardoso.
+Bun noi suntem pe săracă de frontieră.
+Fiecare card și eu văd aici niște mo curi.
+Moc de utile ce fac șos.
+
+Madalina Atomei   34:28
+Astea s teste astea ă.
+
+Sergiu Vasilache   34:29
+Sau.
+A punct test gata gata am înțeles puncte.
+În.
+Nu mă interesează testele bun mergem pe BAT a naviga și în.
+
+Madalina Atomei   34:40
+P.
+
+Sergiu Vasilache   34:47
+Astea sunt componentele dezvoltate de voi încât înțeleg.
+
+Madalina Atomei   34:49
+Da ce e important e să știi că folosim librăria asta chakra eu ai.
+
+Sergiu Vasilache   34:52
+Â â.
+
+Madalina Atomei   34:55
+Casa Nina să ne ușureze a mânca să nu facem noi componente de la zero butoane chestii și o tipa care au fost copii. XO cumva o ținut cont de componentele din chakra? Poți să citești un pic și dacă o să-ți instalez augmentinul când n-a când îi dai, să-ți mai spun mai ajute sau ceva poți să-i zici că folosești cea crash?
+Știi el syntax cumva?
+Pe partea asta și de ce se miră, cel puțin pe partea de cs Ma ajuta foarte, foarte mult.
+Augmentin.
+
+Sergiu Vasilache   35:33
+Î.
+Din buton aici navighez și un propus.
+Bătrân naviga și în.
+Ok.
+Și aici faci orice distracție încă din ăsta, în curând pe aici, nu?
+In.
+
+Madalina Atomei   35:58
+Ideea e că ăsta e un buton care apare în minte aici, ca să zic așa, undeva jos și poți să mergi prin defecte. Ai un home page unde vehicol la baut pe aici.
+Sau poți să dai pe 1 + 1 buton de plus, unde poți să adaugi defect noi și ne plimbă printre ei, folosind routing și plimbă printre paginile astea.
+
+Sergiu Vasilache   36:29
+Deci astea sunt doar niște componente ne oprim, nu mai interesează data.
+Spyphone.
+
+Madalina Atomei   36:37
+Ă astăzi știi Dati.
+Hai să spunem că minte.
+De ce ziceam ști că utilizatorul teoretic trebuie să treacă prin lista di ă defecte și săli zic dacă îi un defect adevărat sau dacă.
+Nu primesc că are un are un i un ID care se duce spre important pentru weekend, dar un neam care e afișat în lista de oaie și un status că dacă îi defect sau nu în funcții.
+Se folosesc compune, îți folosești.
+Serii de componente de el.
+
+Sergiu Vasilache   37:20
+Ok văd că îți folosești ios efectul ăsta.
+Un look urile cam peste tot, locul capată, capata news efectuați folosit nu?
+
+Madalina Atomei   37:27
+Totul.
+
+Sergiu Vasilache   37:31
+Dispecerul de special pe ăsta bun hai că e bine că la început, când am deschis soluția uitam ca la.
+
+Madalina Atomei   37:31
+Da da.
+Chinezii. Elena.
+
+Sergiu Vasilache   37:40
+Măcar mă uit așa prin cod ceva ceva, parcă mi-e mai bine știu.
+
+Madalina Atomei   37:45
+Îhî.
+
+Sergiu Vasilache   37:46
+Bun.
+
+Madalina Atomei   37:47
+Da.
+
+Sergiu Vasilache   37:51
+Bun astea sunt cocurile bun mai departe, mergem la pe gyuri.
+Rutele trebuie să mai existe, rute sunt să le confecționează.
+
+Madalina Atomei   38:02
+Ele pur si simplu sa asocierea asta d Ă.
+Patriciu și aplicații o să-ți încarci.
+Ci componentă să-ți încarce să îți încarcă diferiti pagini.
+
+Sergiu Vasilache   38:17
+Și clei INFO înseamnă că vă va încărca vehicule INFO PICI pe care cred că o găsiți aici, nu da bun.
+
+Madalina Atomei   38:20
+Î.
+Î.
+Da.
+Da.
+N-a ă.
+
+Sergiu Vasilache   38:34
+Ok.
+Da.
+Smood poate pot să-i fac un bypass cumva pentru autentificarea asta și să pot să pornesc, OK, știu, mă gândesc și.
+
+Madalina Atomei   38:47
+Ă noi nu doar autentificare, nu știu ți-am zis *** ți ar merge bechet?
+Tu poți să nască mai comentez din cos mai arco des chestii, da?
+
+Sergiu Vasilache   39:03
+Am înțeles la tine becheanu, tot timpul tot timpul mergea to pur și simplu porniþi frontiera turcă, yeni pe emraan bun empiem ran sau de niște scripturi. Mă interesează unde e ăsta?
+
+Madalina Atomei   39:03
+Da.
+Da.
+Î.
+Nu nu aveam script uri speciale, pur și simplu.
+
+Sergiu Vasilache   39:20
+Deci pur și simplu, da e brand EF nu asta făceam.
+
+Madalina Atomei   39:24
+Da da.
+
+Sergiu Vasilache   39:26
+Aici văd că s-a secunde bag ul. Este in testul asta standard. Nu cred că ați aflat ceva să evite special.
+
+Madalina Atomei   39:32
+Da.
+Î.
+
+Sergiu Vasilache   39:36
+Nu.
+Bun.
+Hai că am fost aici la PGS, uite service.
+Trebuie să merg și ce înseamnă service.
+
+Madalina Atomei   39:48
+În service efectiv gândești la el ca la na legătura dintre client și server.
+Ă cu C.
+
+Sergiu Vasilache   39:58
+Da gata gata mi-am adus aminte de fapt *** fac acolo da acolo către IP externa către server, da?
+
+Madalina Atomei   40:02
+Faci colul la server?
+Da și sunt teorii. Dacă ai stiut specificarii ei același apicol, adică are același efect reporting urile, singura diferență îi.
+Ă.
+Zic că tipul de acțiune și tipul de date care le trimit sau li cer de la de la bekid.
+Nu știu dacă te duci multiplice conflict nambăr următorul aici ai asta e configurat. Cred că folosită de toate.
+
+Sergiu Vasilache   40:34
+Așa așa?
+
+Madalina Atomei   40:36
+Aici vezi ai acțiunea. De ce clip n-am păr cu flit din amber I?
+Și-o să faci un post, un faci un post cu.
+
+Sergiu Vasilache   40:50
+Ok și ceva standard aici, pur și simplu doar adauge adaugi niște herder.
+
+Madalina Atomei   40:51
+În teorie da acolo ghete ghete blink.
+Ghid bilingv heder ăsta teoretic el pe un barman tu din blind, nu o să îți adaugi nimic pentru că el o să adaugat de cheile astea și informațiile de user idei sunt audă gat de proxy-uri din.
+Blink.
+Funcția asta e folosită efectiv pentru ă a rula clientul pi local.
+Fără să fie încărcat în plin.
+
+Sergiu Vasilache   41:28
+Stai un pic deci asta e folosit ca pentru a rula local, fără ca să fi încercat în blânda corect înțeles bine.
+
+Madalina Atomei   41:32
+Da da da, da.
+Pentru li.
+Arco des pentru că în aplicația de Blink îți apar în efectiv în a.
+Hub-ul lor de blink tu așa poți să ai în browser fără să fie încărcat în lync local, dacă dar chiar și așa, ca să na să meargă toate funcții, liceele, celelalte spre bechet, unde ai nevoie de un user pe care îl pui în pat și n-a o să.
+
+Sergiu Vasilache   41:53
+Am.
+Înțeles, am înțeles.
+Ok și tu când te stai de fapt, când te stai, de fapt nu se deschidea în blink la tine local, nu toți scria într-un browser ok și așa asta e pentru chestia asta, ca să nu se mai ducă direct în oglindă, dar se deschide în browser. Nu înțeleg corect.
+
+Madalina Atomei   42:10
+Nu.
+Da da exact.
+Da ă.
+
+Sergiu Vasilache   42:19
+Ok.
+
+Madalina Atomei   42:20
+Stai în browser informațiile cumva din blink care care ți le punea blink dacă îl încărcai blink.
+
+Sergiu Vasilache   42:27
+Ah OK ok ok ok.
+
+Madalina Atomei   42:27
+Î.
+Să ai harul care le-ar fi pus blink?
+
+Sergiu Vasilache   42:34
+Î și testele astea le făceai tu singur, nu, adică tu îți face teste ca să vezi că Serviciul Mircea nu?
+
+Madalina Atomei   42:41
+Da oarecum trebuia să acopere serii din nou ușor la asta te poate ajuta destul de mult augmentin sincer, vezi unii, le știu.
+Nu pot să zic că le-am făcut Marii Mentenanță sau Marii, adică dacă îți pare ceva care nu-i la locul lui.
+
+Sergiu Vasilache   43:03
+Stai liniștit îi oricum să existe nou în chestia asta. Încerc să înțeleg așa ca și structură, *** funcționează ca să pot face ceva.
+
+Madalina Atomei   43:04
+Înreg.
+Că.
+Că.
+Da știu dana nastase să ai în vedere și că a fost o rapid cumva gândit, poate la scurt timp.
+
+Sergiu Vasilache   43:16
+Pentru că e foarte ciudată, știi că știi care e faza?
+Fiecare față eu sunt alocate proiectul ăsta fix pentru o lună.
+
+Madalina Atomei   43:26
+Doar pentru o lună serios.
+
+Sergiu Vasilache   43:28
+De 15 februarie până pe 15 Mar te și gândești că am fost aruncat așa, Bă, descurcă te înțelege și de a sta în hai măcar să mă uit peste reacția, văd ce se întâmplă acolo, pentru că inițial mi-a zis ca să fie fixat niște bag uri.
+
+Madalina Atomei   43:36
+Da.
+Îhî.
+
+Sergiu Vasilache   43:44
+Cam atât cu posibilitatea extinderii până la 3 luni, în funcție de necesități, adică dacă o să aibă e nevoie ca să aibă ei nevoie că 9-a idee.
+
+Madalina Atomei   43:54
+Â da idee că odată, ci doar cred că din toată povestea asta și mie cred că mi-ar fi un pic de lut si sunt configurez. Sunt reconfigurez toate lucrurile astea cu.
+
+Sergiu Vasilache   43:55
+Să le.
+
+Madalina Atomei   44:07
+V ARMĂTURILOR sau na dacă o să ai acces e?
+Dacă trebuia să-ți creezi un instrument nou local, că după aia, ca și funcționalități nu-s foarte sofisticati ca din punctul meu de vedere, dar na fiind noi pentru timp ATI mai întâmpin probleme, dar n-am putem la urmă să mai discutăm să mai vorbim anumite părți.
+
+Sergiu Vasilache   44:31
+Î.
+
+Madalina Atomei   44:33
+Dar na 3 asta trebuie să ai în vedere ***.
+Să înțelegi un pic ca ce server ă?
+O să poți să folosești.
+Ă.
+
+Sergiu Vasilache   44:48
+Ă ă acuma, mă gândeam la altceva, acuma mă gândeam la altceva din moment și eu am back endul aici.
+
+Madalina Atomei   44:49
+Păi configurăm?
+
+Sergiu Vasilache   44:54
+Ă ă.
+Ăsta e hand.
+
+Madalina Atomei   44:57
+Poți să-l întrebi și un pic shopi ă, *** îl cheamă car?
+
+Sergiu Vasilache   45:01
+Mă gândeam, mă gândeam de ce n-aș putea să le rulez local la mine să legi și totul ce face? El stochează fișierele astea într-un ES 3 Buchetele stores local la mine într-un folder și.
+Într-adevăr, e de muncă, de dus de făcut toate configurările astea, dar teoretic cred că până la urmă ce face tu prin service astea de pe front-end, de fapt, apelez.
+Handler ului din bechet.
+
+Madalina Atomei   45:31
+Da dar vezi tu că dacă îți apare dacă îți apare, nu știu probleme din.
+
+Sergiu Vasilache   45:32
+Camp.
+
+Madalina Atomei   45:37
+Nu știi informații care nu ajung la ei în chip, de exemplu generator.
+Cred că ți ar fi mai ușor dacă ai avea totuși, oare vederea ei de blues?
+
+Sergiu Vasilache   45:47
+Bineînțeles, bineînțeles, bineînțeles.
+
+Madalina Atomei   45:51
+Când în.
+
+Sergiu Vasilache   45:52
+E de muncă e de muncă, uite la proiectul ăsta la care ai fost și tu un pic eu când am intrat, vroiau să facă testare știi.
+Testari staicu cu medicii la stress testing.
+În film era ceva ca să bagi o groaza de date. Am uitat *** se cheama.
+Som nenorocească sistemul dash, problema era tot așa cu autentificare și eu ce am făcut acolo am creat o.
+Fac user.
+Și te loga în aplicații pe ce ai de toate, dar na nu o să duci azi să fac a uita.
+
+Madalina Atomei   46:22
+N-avem.
+Îhî.
+
+Sergiu Vasilache   46:24
+Să facă autentificarea, nu stiu ce era în asta în cazuri *** îi zici ia în iștii ca să ducă să cauți user ul tău?
+
+Madalina Atomei   46:32
+Îhî.
+
+Sergiu Vasilache   46:35
+Ori simplu într așa începea să măcelărească. Într-adevăr, nu putea să folosească niște chestii câteva chestii de acolo, dar în rest să lucreze cu baza de date și să facă ce faci. Un obișnuit putea să fac.
+Dar într-adevăr, ei de muncă trebuie să te duci peste tot, să verifici că totul funcționează.
+
+Madalina Atomei   46:47
+Î.
+
+Sergiu Vasilache   46:52
+Dar pot să nenorocești dacă vrei ești.
+Ăăăă da.
+
+Madalina Atomei   46:59
+Ă.
+Ă na noi.
+Lucrând așa am par aleși tot timpul cumva venea făcea becheru și apoi mai adăugăm și pe front-end.
+Nu prea.
+A fost gândit, știi să nu funcționeze că inițial închipuiți că toate aplicațiile astea le vroiau într-o lună.
+Știu tot.
+
+Sergiu Vasilache   47:25
+Da dau seama.
+
+Madalina Atomei   47:27
+Totul o fost tot o veni tot mai refactorizarea. Tot na tot timpul discuția era, hai să facem ceva să fie funcțional și poate uneori dacă ai mai mult, am mai mult timp analizez și alții lucruri care să te ajute pe termen lung. Dar dacă tu ai de la o lună la alta, este așa într-o stare că nu știu să termin, nu se termină.
+
+Sergiu Vasilache   47:37
+Am înțeles, am înțeles, am înțeles.
+Știu știu ce zice, știi ce mă sperie că cam asta să fii tot timpul development-ul cu ayu?
+Pentru că clientul se așteaptă ști *** dacă folosești tuburi de aici să meargă așa *** ați făcut voia plecați asta așa?
+
+Madalina Atomei   48:04
+Da.
+Da da, și dacă e așa o iau și un timp sigur sunt zone care merg reflectorizate. Sunt sigur că sunt zone in care n-a.
+
+Sergiu Vasilache   48:15
+Bineînțeles, da?
+
+Madalina Atomei   48:16
+Ă.
+Și la cred de eres, de exemplu, tot așa o fost o lucrat jana o lungă perioadă singură și când am doar s-a văzut cu folosit foarte mult.
+Și eu așa?
+Dă seama cât cod adăugat simplu să ia și curăță le de fapt?
+Da.
+
+Sergiu Vasilache   48:43
+Am înțeles și de râul Ăla ce înseamnă de râsul ăsta și idei?
+
+Madalina Atomei   48:50
+Ă cred că e și o zic activ dacă dai pe o tot pe ceva pe front-end un pic aici M CND cam la fel.
+Că ei zic și o altfel de rost.
+Era denumirea inițială.
+
+Sergiu Vasilache   49:07
+Azi, ne uităm la.
+Trebuie să fi un document ceva.
+
+Madalina Atomei   49:24
+Ca să-mi aduc aminte un pic?
+
+Sergiu Vasilache   49:35
+Hai că mă duc să caut în documentație, nu numai.
+
+Madalina Atomei   49:40
+Ă în esență.
+
+Sergiu Vasilache   49:42
+Cam ce făcea, îți aduci aminte și că în general cam ce făcea asta?
+
+Madalina Atomei   49:43
+Ă ei aveau.
+Ei aveau tot felul di S ă un fel de facturi, cred.
+Sau din astea khitan ceva bonuri.
+Păi cary.
+Trebuia să le treacă într-un sistem ca să fii.
+Plătiti dar ceva în genul.
+
+Sergiu Vasilache   50:08
+Am înțeles, am înțeles.
+
+Madalina Atomei   50:09
+Da de un pic pe pagina.
+Ești pe frunte, nu plus sc acte duci pe seară că pe jazz.
+
+Sergiu Vasilache   50:19
+PG.
+Menționați netlog.
+
+Madalina Atomei   50:22
+Astana nu.
+Așa și la pace.
+
+Sergiu Vasilache   50:28
+Au CERS vară, însă văd cât e aici.
+Am socket, second cash.
+Uite aici, peruci.
+
+Madalina Atomei   50:37
+Nu să spui că din plante cea mai complicată e cumva diferit de porc, din care și partea asta de trebuie să faci un fel de senin la user ai mai mult timp. Informații aici, pur și simplu datele nu sunt păstrate, știi odată ce ai făcut cumva acțiunea?
+Ă s-o trimis și nu numai, nu faci așa de mult.
+
+Sergiu Vasilache   51:00
+So trimis și cam atât, da?
+Am înțeles, ok?
+
+Madalina Atomei   51:08
+Când revenim newser nu nu are fiecare user are datele lui. Cumva mai simplu sa din punctul ăsta de vedere?
+
+Sergiu Vasilache   51:18
+Și importul ăsta import de popă.
+Import.
+
+Madalina Atomei   51:22
+Ori după asta sunt.
+
+Sergiu Vasilache   51:24
+Aici aici astrei Aplicația să înțeleg importer.
+
+Madalina Atomei   51:27
+Ă ă și mai rapid partea din becheni, când noi afișam pentru useri ă în cid pot este sau ci flituri a validării fluide.
+
+Sergiu Vasilache   51:27
+Stai.
+
+Madalina Atomei   51:40
+Din ce îmi aduc aminte că trebuia ă o dată pe zi să ai up datat informațiile.
+Server serverul nostru și o să luați datele dintr-un excel tot așa de undeva?
+S-ar putea tot depind este 3 sau ceva de la ei și am dat au informațiile astea pe care le foloseam noi pe.
+H Beck end di pot diferi i.
+E erau niște informații care schimbau de la o zi la alta sau de la o săptămână sau.
+Și tot din bechet, adica sunt sunt.
+
+Sergiu Vasilache   52:24
+Ah număr de Kent, la importuri ăsta văd că doar impudoare beclean.
+
+Madalina Atomei   52:26
+Da da da da ideea e că *** to the trimite mai departe datele care salvau un.
+Bazele noastre de date erau nevoie și de niște informații de la cealaltă echipă.
+Care trebuiau important noi foloseam făceam o validare pe suflet. Se face, de fapt, nu se făcea, facem o validare pe ilie și ca să poți să faci validarea respectivă, aveai nevoie de informații de la ei și apoi să ai asta.
+Un backend făcea un import.
+La anumite.
+Da.
+
+Sergiu Vasilache   53:04
+Mulțumesc sens. Până la urmă, există din service apeleaz logică de aici asta înțeleg, se întâmplă, nu?
+
+Madalina Atomei   53:12
+Da.
+
+Sergiu Vasilache   53:12
+Asta e important ploi nici nu văd nimic aici ce ghete importanta.
+
+Madalina Atomei   53:16
+Cred că cred că ăsta, nici nu nici eu. Nu știu de ce atât de important în ploaie.
+Asta nu știu.
+
+Sergiu Vasilache   53:21
+Oricând sigur și iar aici cred că asta e toată logica. Îmi pică Jos ăsta.
+Tot.
+Esco SA.
+Mulțumesc.
+Da.
+
+Madalina Atomei   53:35
+Nu a fost buna treaba de pe când tot așa Carol o mai lucrăm mai mult pe partea asta de azi, zic maricei.
+Nu.
+
+Sergiu Vasilache   53:48
+Văd că.
+
+Madalina Atomei   53:48
+Efectiv dintr-un cred că ea dintr-un mix tel sau ceva ia datele leu sau încă să văd știu și le pune în baza noastră de date.
+
+Sergiu Vasilache   53:58
+Ah ok bun.
+Î.
+Ok înseamnă că această chestiune simplă.
+Bun.
+Documentația va rămâne sau nu?
+Despre asta, ziceai tu șiret da?
+
+Madalina Atomei   54:15
+A da și aici să.
+
+Sergiu Vasilache   54:19
+Se declanșat și de frunte între că avem componente butoanele care se.
+
+Madalina Atomei   54:19
+Și.
+Foarte multi, nu am stat. Din păcate, n-am cel puțin jana nou adăugat nimic aici din componența.
+
+Sergiu Vasilache   54:31
+De ce am observat eu aici? Văd că ai foarte mult cod este decât să se înțeleg, nu?
+Că sunt niște proprietăți care bănuiesc că se puteau seta dincă să am dreptate sau greșesc aici.
+
+Madalina Atomei   54:45
+Ă îți?
+Din cât SS.
+Da ești de styling?
+
+Sergiu Vasilache   54:49
+Eu văd cât sunt mai mult de d'Estaing da și am și am văzut că foarte multe folosit direct între sexe, adică nu sunt și ieri de stiling separat.
+
+Madalina Atomei   54:52
+P da.
+Î.
+
+Sergiu Vasilache   54:59
+Cam a cam asta e ideea proiectului, nu?
+
+Madalina Atomei   55:03
+Du-te așa se face cu chakra Ioai te folosești foarte mult după da.
+
+Sergiu Vasilache   55:06
+A chakra am înțeles chakra face chestia asta, OK ok.
+
+Madalina Atomei   55:10
+Da și tu IST, adică, bă, vezi toate proprietățile astea sunt cumva standard in ceea craiovei. Dacă n-ai murit mai mulți în documentează lor și de asta ziceam că e bine. Dacă o să folosești argumente, nu să-i zici Folosești CHAKRĂ că na ăsta.
+Ș, aici e important, îi cârpite tot în chakra ioai ai cumva o temă din om, nici de asta nu pot să zic că ne-am ținut foarte mult. Ar fi fost.
+Ridicați.
+Cumva setez tu culorile?
+Sunt globale între toate componentele sunt.
+O să-i ridic culori.
+Dar ai să vezi când probabil nu foarte multi componenti nespus de aici?
+
+Sergiu Vasilache   55:56
+Î.
+
+Madalina Atomei   55:58
+S-ar putea să fi pusi.
+Arco dat prin cod.
+
+Sergiu Vasilache   56:07
+Și.
+
+Madalina Atomei   56:12
+Da e șardu ăsta e gândit ca să pui cod comun între cele 3 aplicații și ușor de teorii de refolosit.
+
+Sergiu Vasilache   56:12
+Mădălina.
+Am înțeles, am înțeles, am înțeles.
+Astea știi ceva de el?
+Grupul ăsta.
+
+Madalina Atomei   56:32
+Te rog Rand ă tot la Devops ce Lucrati.
+
+Sergiu Vasilache   56:38
+Toate din nou în jos văd că și terraform și terra grand știi care i diferența aici.
+
+Madalina Atomei   56:43
+Ă posibil ca.
+De boeuf dar asta e doar o bănuială. Cea mai prins din discuție ă terraform să fi folosit.
+Dvd-ul nostru și cel de facut era grant devops, nu știu și.
+
+Sergiu Vasilache   56:58
+Am înțeles, am înțeles, am înțeles.
+
+Madalina Atomei   57:02
+Dar.
+
+Sergiu Vasilache   57:07
+Alina îți mulțumesc foarte mult.
+Și așa de la 5000-5 minute ne-am transformat într-o oră și.
+
+Madalina Atomei   57:11
+Probă.
+Noi pentru ce? Da na RAM mânem în discuții?
+
+Sergiu Vasilache   57:21
+Da, păi măcar măcar am un starting point, măcar înțeleg ce se întâmplă, de unde să ia ce se face și măcar să mă uit peste cot, să înțeleg cam.
+
+Madalina Atomei   57:30
+Da să-ți pui punctele astea cât de cât poți primi, când vă dacă pot, dacă poate sau pot să își întrebe până la urmă nici o întrebare poți până pe 5 P să-mi dai contul de blink să mă dau din plin, să mă care e treaba cu el a esuat.
+
+Sergiu Vasilache   57:30
+Asta.
+
+Madalina Atomei   57:49
+Casă da.
+
+Sergiu Vasilache   57:51
+În.
+Î.
+
+Madalina Atomei   57:52
+Cam ești legat, poți să-ți arco de zidar.
+
+Sergiu Vasilache   57:57
+Da e mai simplu ca ei sunt de acces toate cifrele așa.
+
+Madalina Atomei   58:01
+Cel puțin poți să încerci să vezi consumul bals da.
+Și-acolo tot cred că are nevoie de anumite date de pe bekid și dacă nu ai.
+Tat.
+Dar măcar știi că independent din plic?
+
+Sergiu Vasilache   58:26
+Ok.
+
+Madalina Atomei   58:27
+Și la fel să vezi dacă te lasă în continuare cu copii, cu o folosești cu copilul, dacă ești tu o obișnui cu el sau.
+Argument.
+
+Sergiu Vasilache   58:41
+Au venit și anul ăsta.
+
+Madalina Atomei   58:41
+Oh da.
+
+Sergiu Vasilache   58:43
+O mențiune antibiotic târziu, m-am dus la medic, trebuie să trebuie să mă duc să cumpăr de asta.
+
+Madalina Atomei   58:45
+Haha, știu.
+Dar.
+E.
+Îi eu cel puțin n-am văzut el.
+Partea, din ți-am zis TI Front-End dacă îl antrenezi un pic și spui că n-am folosesc chakra ioai.
+Typescript ă ă poate să-ți explice anumite părți din cod. Nu știu dacă EO componentă din Iași, băi, nu prea înțeleg ce zice aici, i-aș explica mai în general să știi când să cam știi.
+
+Sergiu Vasilache   59:24
+Bine ți-am zis că folosesc.
+
+Madalina Atomei   59:24
+Să să-ți dea informații.
+
+Sergiu Vasilache   59:26
+Copilotul și tot mi se pare că e destul de ok.
+
+Madalina Atomei   59:29
+Da da da asta e un avantaj părerea mea.
+
+Sergiu Vasilache   59:32
+Că vorbeam cu cineva folosește, nu știu, eu aveam Patone să știu dacă știi că e ceva intern.
+
+Madalina Atomei   59:38
+A da.
+
+Sergiu Vasilache   59:40
+Și tot așa, foarte mulțumit de atomi ăsta. Până la urmă, tot la care te-ai obișnuit care te obișnuiești?
+
+Madalina Atomei   59:40
+Îhî.
+Ce este.
+Îhî.
+Da.
+Da.
+
+Sergiu Vasilache   59:52
+In mădălina imagen și spor la ce faci acolo PURG to track, bănuiesc, nu s-au.
+
+Madalina Atomei   59:53
+Bine.
+Mulțumesc.
+Ai rămâne surprins, nu am intrat și eu pe ceva în ochi în gură e să-i cumva interesant pentru că interesant în ghilimele, că ei ca să uniformizez i au echipă de oaie care fac ei componenti lei și trebuie folositi alea și na, nu știi când ești dependent de genul ăsta, nu prea ai documentații, nu prea posturi lipsești de aici pentru că e ceva standard.
+
+Sergiu Vasilache   1:00:32
+Ă ă ă.
+
+Madalina Atomei   1:00:32
+Nu, de fapt nu e ceva standard ceva ca asta.
+
+Sergiu Vasilache   1:00:37
+Mulțumesc bun, dar tu ai avut experiență de reacții înainte de a intra pe proiectul ăsta de idei așa ceva sau tot așa ai învățat din.
+
+Madalina Atomei   1:00:39
+Dar.
+P.
+Și care e intrat acum aveam aveam 3 ani 3 ani deja Lucrasem.
+
+Sergiu Vasilache   1:00:49
+Da.
+Aha am înțeles înțeles înțeles.
+
+Madalina Atomei   1:00:52
+Î.
+
+Sergiu Vasilache   1:00:54
+Bun dar, eu știam că reacții ceva peste ei încă, dar nu sau greșesc.
+
+Madalina Atomei   1:00:59
+Stam separati sau te referi că pestii mai bun sau.
+
+Sergiu Vasilache   1:01:05
+Da, dacă știu că fusesem la un interviu, cândva și aia Vroiau să treacă de pinilor perak și ziceau că au găsit niște ficioru mult mai fain și vor să schimbe toate aplicațiile pentru o perioadă de asta? A întrebat.
+
+Madalina Atomei   1:01:07
+Îi.
+Da pentru că cumva ai mult mai multă libertate, dacă reactii librării, tot ca să construiești aplicații cauți bucățele, știi le aduni și îți faci tu.
+Tot felul de chestii mult mai permisiv.
+Și iei decizii to Air deja are multe chestii ca asta. Am scris în stann mult mai standardizat și ne poate mai dificil să.
+Înveți.
+Lucrurile astea.
+Da da nu vedeam.
+Î.
+
+Sergiu Vasilache   1:01:52
+Sinus.
+
+Madalina Atomei   1:01:52
+Mie mi-au plăcut e actul, da?
+Îți spun ce să zic, nici nu știam că n-o când am dat interviul și așa, inițial ziceau ceva direct, după care am intrat. Mi-au zis că ei nu le RO fost așa o.
+Un.
+Esti bine și bec end un dot net.
+
+Sergiu Vasilache   1:02:13
+L.
+
+Madalina Atomei   1:02:13
+Dar am așa o impresie că la o primă vedere, par că au nevoie mai mult pe partea asta de fund.
+
+Sergiu Vasilache   1:02:21
+Nu principalul știe bine că este de muncă, eu asta zic toți.
+
+Madalina Atomei   1:02:25
+Da ne adaptăm cumva?
+
+Sergiu Vasilache   1:02:27
+În situația asta, coman nu mai numai nu mai faci și.
+Nu mai faci figuri, adică.
+
+Madalina Atomei   1:02:33
+Da e chiar curioasa acuma să văd ce o să fii la olhos miting. Avem acum la un șpriț.
+
+Sergiu Vasilache   1:02:39
+Da nu vrea să ne zică asta ne zică că totul e bine.
+
+Madalina Atomei   1:02:41
+Să vedem ce mai.
+Nu știu.
+Zici Ultima oară s-o plâns un pic, nu știu de ei.
+
+Sergiu Vasilache   1:02:52
+Dar știți odată afară o anu?
+
+Madalina Atomei   1:02:52
+Nu aducem.
+Nu, nu știu chiar nu știu.
+
+Sergiu Vasilache   1:02:56
+Nu știi nu știi că s-au dat afară? S-au dat afară, nu știu.
+
+Madalina Atomei   1:03:00
+Pentru că în ă for ț.
+
+Sergiu Vasilache   1:03:00
+Și.
+Nu știu, nu știu de tare dacă depete cursă de la noi, din echipă, sigur, au plecat o cineva.
+Ă și cred că asta și forțat ce se întâmplă. Acuma știi că ți-am spus, hai treci la treabă, dar nu numai pe ea și am înțeles că pe tot nas.
+Așa?
+
+Madalina Atomei   1:03:22
+Serios.
+
+Sergiu Vasilache   1:03:23
+Așadar asta, știi *** erau informație confidențială că am auzit de la cineva care a vorbit cineva astăzi, că de fapt a fost o listă de pe tot mi-e s-o ia cu mana EO bârfă până la urmă și au fost 80 de persoane trebuiau scoase și pe România. Acum nu știu pe România sau pe Iași au fost 20.
+
+Madalina Atomei   1:03:29
+Da da da, da.
+
+Sergiu Vasilache   1:03:45
+Cred că pe românii au fost 20. Cumva primul val au fost 20 de oameni dați afară și când am întrebat dacă aș fi următorul, val răspunsul fost vag ca se pare ca să fie și acolo. Au dat peste o lună 2 3.
+
+Madalina Atomei   1:03:46
+Ok.
+Am tu mai ești în grupurile astea cu oamenii care nu au proiecte încă sunt.
+
+Sergiu Vasilache   1:04:03
+Iar.
+Da s da, păi cam fost la ultimul miting cu oamenii care nu au proiecte înțelegi.
+Și acolo am aflat informația asta și.
+Că na ne-au zis radu zis că vreau dovezi sau mai ții minte, nu o zis că vezi că, întrebat cineva ne așteptăm următorul Val să vină și altcumva un răspuns va?
+
+Madalina Atomei   1:04:23
+Da da.
+
+Sergiu Vasilache   1:04:31
+Înțelegi, adică cu într-un fel o zis că următoarele 3 luni de zile nas.
+A nu știu.
+
+Madalina Atomei   1:04:38
+Probabil șură că s-a terminat treaba AIA cu guvernu că.
+
+Sergiu Vasilache   1:04:42
+Da da da, da, da cu siguranță cu siguranță și chestia asta cu semnat cu guvernul și cumva?
+
+Madalina Atomei   1:04:47
+Vor să facă economie și atunci?
+
+Sergiu Vasilache   1:04:50
+Da.
+Î.
+
+Madalina Atomei   1:04:52
+Nu știu.
+Dana ies.
+
+Sergiu Vasilache   1:04:55
+Așa că învățăm și react, învățăm și angular, învățăm de toate.
+
+Madalina Atomei   1:04:59
+Bush facem treaba n-ai să vezi că lumea îi destul de de la client, ca să zic așa, să-ți dau însă ă.
+
+Sergiu Vasilache   1:05:02
+Orice treabă.
+
+Madalina Atomei   1:05:11
+Nu-s foarte tehnici, adică ai destul de mare libertatea și.
+
+Sergiu Vasilache   1:05:14
+Am înțeles.
+
+Madalina Atomei   1:05:19
+Nb da.
+Nu n-ai să vezi comentarii absurde cumva mai mult o să vezi cerințe mai mult de partea de business.
+
+Sergiu Vasilache   1:05:30
+Î.
+
+Madalina Atomei   1:05:31
+Ăsta a fost un avantaj că nu știi când sunt?
+
+Sergiu Vasilache   1:05:37
+Da da.
+
+Madalina Atomei   1:05:37
+Așa este cel care na fiecare cu 7000 de păreri.
+
+Sergiu Vasilache   1:05:39
+Da au arhitectii partea lor da au arhitect pe partea lor sau noștri.
+
+Madalina Atomei   1:05:42
+Cu 7000 p unu.
+Nu nu nu am avut cred că o săptămână un arhitect aici. Când am început da, el s-o ocupa sincer doar din partea asta de integrare cu blink. *** să se partea asta știi cu UE to be you din Aid ablu ies ca să poți să.
+
+Sergiu Vasilache   1:06:01
+Înțeles.
+
+Madalina Atomei   1:06:06
+Să luăm informații sunt integrăm aplicația noastră. Cumva o fi gândit puțin și a ajutat vorbit cu echipa de la suport la blink.
+Când nu era clar.
+Dar cam atâta.
+Cât tot tot am avut, am avut și weeks și produc tornade, dar pentru că n-a bugetul era din 5 mai mic tot scos oameni de la o lună la alta.
+
+Sergiu Vasilache   1:06:35
+Da eu știi *** nici nu știu ce vor e acuma, pentru că inițial au zis că vor doar să fac fixez niște baguri, știi că am intrat eu așa în con tip.
+Păi, de fapt i testarea automată, dar am înțeles ca să fac testare manuală și.
+
+Madalina Atomei   1:06:50
+Așa?
+
+Sergiu Vasilache   1:06:51
+Și din câte înțeleg că o să fie niște bag uri și de asta este doar pentru o lună, ca să se fixeze bag urile alea care le au. Dar ce fel de bac orice fel de aplicații nu am informații.
+Și din experiența mea.
+
+Madalina Atomei   1:07:03
+Probabil a ajuns în produse în producție de om. Ai testat că ei mai vin cu cerințe. Așa a fost tot timpul la noi. Când nina ei au venit hella informații și când încep să testeze să vadă exact.
+*** stau lucrurile mai au cerințe care să se schimbă.
+
+Sergiu Vasilache   1:07:23
+Î.
+
+Madalina Atomei   1:07:23
+Și-au fost o flow.
+Știu, dar nu poți să faci testarea automată pentru că au încercat și tipa legat de testare care o aveam și noi doar și blin cumva nu ofer?
+Foarte mult suport pe partea asta și nu avea *** a încercat o în ă amplif aer.
+Sunt i-am creat cumva un reviriment cal aveam shoppy local.
+Dar tot în spațiul, ziua link-ul. Numai că nu mai sunt ca aplicația Linksys încărca pur și simplu browser.
+Știu.
+Cu ceva testari pe asta da mai vedem.
+
+Sergiu Vasilache   1:08:08
+Inna.
+Vreau să descurcăm ce o să facem?
+
+Madalina Atomei   1:08:11
+Â, vorbim și.
+
+Sergiu Vasilache   1:08:15
+Madalina mulțumesc frumos și dacă am să apelez la tine, dacă ceva mă împotmolesc și habar n-am ce să fac, măcar să-mi dai un hint. Dacă nu știu că l-am întrebat pe mical MIC al parcă așa se pronunță corect numele lui, nu să ne schimbăm ăsesc. Mi-a zis că Carol știa să mă ajute doar pe beckett și atât frontieră. Nu știm să alegi cam asta. E toată informația care împlinit.
+
+Madalina Atomei   1:08:15
+Numai post.
+Cu drag.
+Îhî.
+Îhî.
+Da.
+Îhî.
+E în regulă.
+Păstrăm legătura așa?
+Nu ezita să mă întrebi?
+
+Sergiu Vasilache   1:08:44
+Da îți mulțumesc, îți mulțumesc încă o dată și spor la treabă.
+
+Madalina Atomei   1:08:50
+Cafea apa?
+
+Sergiu Vasilache stopped transcription
