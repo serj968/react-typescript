@@ -17,7 +17,6 @@ function App() {
 
   useEffect(() => {
     async function fetchPosts() {
-
       const data = (await get(
         'https://jsonplaceholder.typicode.com/posts',
       )) as RawDataBlogPost[];
@@ -29,24 +28,18 @@ function App() {
           text: rawPost.body,
         };
       });
-
       setFetchedPosts(blogPosts);
     }
 
     fetchPosts();
 
-
-
   }, []);
-
 
   let content: ReactNode;
   if (fetchedPosts) {
     content = <BlogPosts posts={fetchedPosts}></BlogPosts>
 
   }
-
-
 
   return (
     <main>
